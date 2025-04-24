@@ -6,5 +6,5 @@ Dockerized as an image then deployed as a container using EKS in the form of a k
 
 <strong>kubectl port-forward svc/my-flask-service 5000:5000 -n default</strong> to expose port and run
 
+![Capture](https://github.com/user-attachments/assets/73d39220-95f3-4204-9808-50a256a88b09)
 
-![Capture](https://github.com/user-attachments/assets/c845c14e-3811-4c47-82d3-4309308c89b3)
